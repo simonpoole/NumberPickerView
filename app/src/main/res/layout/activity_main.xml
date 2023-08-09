@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.jnaka9.android.numberpickerview.library.NumberPickerView
+    <dev.jnaka9.android.numberpickerview.library.NumberPickerView
         android:id="@+id/picker"
         android:layout_width="wrap_content"
         android:layout_height="240dp"
