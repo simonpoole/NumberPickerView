@@ -2,7 +2,7 @@
  * github : https://github.com/Carbs0126/NumberPickerView
  */
 
-package cn.carbswang.android.numberpickerview.library;
+package com.jnaka9.android.numberpickerview.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;

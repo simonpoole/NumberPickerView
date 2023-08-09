@@ -1,4 +1,4 @@
-package cn.carbswang.android.numberpickerview;
+package com.jnaka9.android.numberpickerview;
 
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-import cn.carbswang.android.numberpickerview.library.NumberPickerView;
+import com.jnaka9.android.numberpickerview.library.NumberPickerView;
 
 /**
  * Created by Carbs.Wang on 2016/6/24.

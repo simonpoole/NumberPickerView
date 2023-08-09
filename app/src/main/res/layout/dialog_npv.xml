@@ -5,7 +5,7 @@
     android:background="@color/colorWhite"
     android:orientation="vertical">
 
-    <cn.carbswang.android.numberpickerview.library.NumberPickerView
+    <com.jnaka9.android.numberpickerview.library.NumberPickerView
         android:id="@+id/picker"
         android:layout_width="wrap_content"
         android:layout_height="240dp"

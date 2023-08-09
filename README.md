@@ -70,9 +70,10 @@ https://github.com/Carbs0126/GregorianLunarCalendar
     implementation 'cn.carbswang.android:NumberPickerView:1.2.0'
 ```
 or
+
 ```xml
     <dependency>
-      <groupId>cn.carbswang.android</groupId>
+      <groupId>com.jnaka9.android</groupId>
       <artifactId>NumberPickerView</artifactId>
       <version>1.2.0</version>
       <type>pom</type>

@@ -1,4 +1,4 @@
-package cn.carbswang.android.numberpickerview;
+package com.jnaka9.android.numberpickerview;
 
 import android.content.Intent;
 import android.content.res.AssetManager;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import cn.carbswang.android.numberpickerview.library.NumberPickerView;
+import com.jnaka9.android.numberpickerview.library.NumberPickerView;
 
 /**
  * Created by Carbs.Wang.
