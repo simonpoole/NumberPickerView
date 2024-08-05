@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jnaka9.android.numberpickerview">
+    package="ch.poole.android.numberpickerview">
 
     <application
         android:allowBackup="true"
@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.jnaka9.android.numberpickerview.dev.jnaka9.android.numberpickerview.ActivityTimePicker"
+            android:name="ch.poole.android.numberpickerview.ActivityTimePicker"
             android:label="@string/activity_time_picker" />
     </application>
 

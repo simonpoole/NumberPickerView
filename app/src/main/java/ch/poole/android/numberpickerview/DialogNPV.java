@@ -1,4 +1,4 @@
-package dev.jnaka9.android.numberpickerview;
+package ch.poole.android.numberpickerview;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -8,9 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.jnaka9.android.numberpickerview.R;
+import ch.poole.android.numberpickerview.R;
 
-import dev.jnaka9.android.numberpickerview.library.NumberPickerView;
+import ch.poole.android.numberpickerview.library.NumberPickerView;
 
 /**
  * Created by carbs on 2016/7/11.

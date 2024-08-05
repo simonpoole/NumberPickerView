@@ -2,7 +2,7 @@
  * github : https://github.com/Carbs0126/NumberPickerView
  */
 
-package dev.jnaka9.android.numberpickerview.library;
+package ch.poole.android.numberpickerview.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -23,7 +23,7 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.widget.Scroller;
 
-import com.jnaka9.android.numberpickerview.library.R;
+import ch.poole.android.numberpickerview.library.R;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

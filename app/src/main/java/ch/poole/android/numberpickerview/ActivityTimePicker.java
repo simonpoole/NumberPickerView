@@ -1,4 +1,4 @@
-package dev.jnaka9.android.numberpickerview;
+package ch.poole.android.numberpickerview;
 
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
@@ -16,9 +16,9 @@ import android.widget.Toast;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-import com.jnaka9.android.numberpickerview.R;
+import ch.poole.android.numberpickerview.R;
 
-import dev.jnaka9.android.numberpickerview.library.NumberPickerView;
+import ch.poole.android.numberpickerview.library.NumberPickerView;
 
 /**
  * Created by Carbs.Wang on 2016/6/24.
